@@ -11,7 +11,7 @@ public class tabla_multiplicar_completa {
                 System.out.println(i+"x"+j+"="+(i*j));
 // este bucle funciona como un reloj, el bucle externo avanza una vez cada vez que el interno termina sus 10 vueltas
 // se repite este proceso hasta que el externo llega a 10
-// cada tabla= 10 multiplicaciones -->eso es lo que hace el bucle interno                 
+// cada tabla= 10 multiplicaciones -->eso es lo que hace el bucle interno
             }
         }
     }
